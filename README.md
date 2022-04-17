@@ -1,6 +1,6 @@
 ## Olá! Me chamo Jânio
 
-- 🔭 "Mente para piscina cheia pro inimigo entrar"
+- 🔭 "Mente vazia, piscina cheia pro inimigo entrar"
 - 🌱 Estudando: Python, MySQL, Java, POO
 - 😄 Cidade: SP
 <div align="center">
