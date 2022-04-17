@@ -1,8 +1,8 @@
 ## Olá! Me chamo Jânio
 
-- 🔭 Não trabalho na aréa de desenvolvimento ainda
-- 🌱 Estudando Python, MySQL, Java, POO
-- 😄 Pronouns: ele/dele
+- 🔭 "Mente para piscina cheia pro inimigo entrar"
+- 🌱 Estudando: Python, MySQL, Java, POO
+- 😄 Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
