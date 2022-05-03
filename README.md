@@ -1,7 +1,7 @@
 ## Olá! Me chamo Jânio
 
 - 🔭 "Mente vazia, piscina cheia pro inimigo entrar"
-- 🌱 Estudando: Python, MySQL, Java, POO
+- 🌱 Estudando: Python, MySQL, Java, Node.js
 - 😄 Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
