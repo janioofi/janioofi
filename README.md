@@ -25,6 +25,8 @@
  	<a href="https://www.twitch.tv/jayef7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:filhojanio67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jan1ooo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jan1ooo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jan1ooo?trk=profile-badge">Jânio Filho</a></div>
+              
  
   ![Snake animation](https://github.com/jan1ooo/jan1ooo/blob/output/github-contribution-grid-snake.svg)
  
