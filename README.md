@@ -1,7 +1,7 @@
 # Olá! Me chamo Jânio
 
 - 🔭 "Mente vazia, piscina cheia pro inimigo entrar"
-- 🖥 Estudando: Node.js. Angular
+- 🖥 Estudando: Node.js, Angular, Bootstrap
 - 📍 Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
