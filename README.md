@@ -1,4 +1,4 @@
-# Olá! Me chamo Jânio
+# Olá! Me chamo Jânio, sou Desenvolvedor Web
 
 - 🔭 "Mente vazia, piscina cheia pro inimigo entrar"
 - 🖥 Estudando: Node.js, Angular, Bootstrap
