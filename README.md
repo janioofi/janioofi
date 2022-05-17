@@ -1,8 +1,8 @@
 # Olá! Me chamo Jânio, sou Desenvolvedor Web
 
-- 🔭 "Mente vazia, piscina cheia pro inimigo entrar"
-- 🖥 Estudando: Node.js, Angular, Bootstrap
-- 📍 Cidade: SP
+- 🔭 "Contanto que esteja aprendendo,não está falhando."
+- 🖥  Estudando: Node.js, Angular, Bootstrap
+- 📍  Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
