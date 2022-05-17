@@ -1,6 +1,6 @@
 # Olá! Me chamo Jânio, sou Desenvolvedor Web
 
-- 🔭 "Contanto que esteja aprendendo,não está falhando."
+- 🔭 "Contanto que esteja aprendendo, não está falhando."
 - 🖥  Estudando: Node.js, Angular, Bootstrap
 - 📍  Cidade: SP
 <div align="center">
