@@ -7,7 +7,7 @@
   <a href="https://github.com/jan1ooo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=synthwave"/>
-    <a href="https://www.linkedin.com/in/jan1ooo/" target="_blank"><img align="right" height="200" width="200" src="https://c.tenor.com/xI0dbbVUBEAAAAAM/levi-s4-levi-ackerman.gif" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jan1ooo/" target="_blank"><img align="right" width="190" src="https://c.tenor.com/xI0dbbVUBEAAAAAM/levi-s4-levi-ackerman.gif" target="_blank"></a>
 </div>
   
 <div style="display: inline_block"><br>
