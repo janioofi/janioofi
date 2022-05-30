@@ -1,7 +1,7 @@
 # Olá! Me chamo Jânio, sou Desenvolvedor Web
 
 - 🔭 "Contanto que esteja aprendendo, não está falhando."
-- 🖥  Estudando: Node.js, React
+- 🖥  Estudando: Node.js, Vue.js
 - 📍  Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
