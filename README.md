@@ -4,8 +4,10 @@
 - 📍  Cidade: SP
 <div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=synthwave&hide_border=true"/>
+  <img height="150em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jan1ooo&theme=tokyonight"/> 
     
 </div>
   
