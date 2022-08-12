@@ -1,11 +1,12 @@
+<span align="center">
 # "Contanto que esteja aprendendo, não está falhando."
-
-<div align="center">
+</span>
+<span align="center">
   <a href="https://github.com/jan1ooo">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="150em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jan1ooo&theme=tokyonight"/> 
     
-</div>
+</span>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="janio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
