@@ -1,6 +1,6 @@
-<span align="center">
+
 # "Contanto que esteja aprendendo, não está falhando."
-</span>
+
 <span align="center">
   <a href="https://github.com/jan1ooo">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight"/>
