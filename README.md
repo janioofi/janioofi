@@ -1,11 +1,13 @@
 
 # "Contanto que esteja aprendendo, não está falhando."
 
+<div align="center">
+    <img height="400em" align="center" src="https://user-images.githubusercontent.com/95763551/215898227-708d78b9-91db-456f-820e-346a022a1de2.gif"/> 
+</div>
+
 <span align="center">
   <a href="https://github.com/jan1ooo">
-  
   <img height="150em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jan1ooo&theme=tokyonight"/> 
-    
 </span>
   
 <div style="display: inline_block"><br>
