@@ -2,7 +2,7 @@
 # "Contanto que esteja aprendendo, não está falhando."
 
 <div align="center">
-    <img height="400em" align="center" src="https://user-images.githubusercontent.com/95763551/215898227-708d78b9-91db-456f-820e-346a022a1de2.gif"/> 
+    <img height="450em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
 </div>
 
 <span align="center">
