@@ -4,11 +4,11 @@
 <div align="center">
     <img height="450em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
 </div>
-
-<span align="center">
+ 
+<div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="150em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jan1ooo&theme=tokyonight"/> 
-</span>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&theme=dracula&show_icons=true"/> 
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="janio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
