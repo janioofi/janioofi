@@ -2,12 +2,13 @@
 # "Contanto que esteja aprendendo, não está falhando."
 
 <div align="center">
-    <img height="450em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
+    <img height="350em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
 </div>
  
 <div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&theme=dracula&show_icons=true"/> 
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=tokyonight&hide_border=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>  
 </div>
   
 <div style="display: inline_block"><br>
