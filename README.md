@@ -1,6 +1,3 @@
-
-# "Contanto que esteja aprendendo, não está falhando."
-
 <div align="center">
     <img height="350em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
 </div>
