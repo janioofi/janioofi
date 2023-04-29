@@ -1,14 +1,13 @@
 <div align="center">
     <img height="350em" align="center" src="https://user-images.githubusercontent.com/95763551/215898432-2efcba36-e617-40e2-9730-dcf389eb143c.gif"/> 
 </div>
- 
+
+##
+
 <div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=tokyonight&hide_border=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>  
-     
-      
-      
+  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=tokyonight&hide_border=true"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -16,7 +15,7 @@
   <img align="center" alt="janio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jani-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="janio-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="janio-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
+  <img align="center" alt="janio-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />       
 </div>
 
 
