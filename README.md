@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=tokyonight&hide_border=true"/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=transparent"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=donut&theme=transparent"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
