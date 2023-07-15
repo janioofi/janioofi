@@ -21,9 +21,6 @@
   <img align="center" alt="janio-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="janio-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div>
-
-
-  
   ##
  <div align="center" style="display: inline_block"><br> 
     <a href="https://instagram.com/jan1ooo" target="_blank">
@@ -33,9 +30,4 @@
     <a href="https://www.linkedin.com/in/jan1ooo/"  target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-   
-   
-              
- 
-  ![Snake animation](https://github.com/jan1ooo/jan1ooo/blob/output/github-contribution-grid-snake.svg) 
 </div>
