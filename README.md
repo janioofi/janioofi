@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/jan1ooo">
-  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan1ooo&theme=transparent"/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=donut&theme=transparent"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=jan1ooo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jan1ooo&layout=donut&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -23,10 +23,10 @@
 </div>
  <div align="center" style="display: inline_block"><br> 
     <a href="https://instagram.com/jan1ooo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
     <a href = "mailto:filhojanio67@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jan1ooo/"  target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a> 
  </div>
 </div>
