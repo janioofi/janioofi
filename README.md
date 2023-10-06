@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/janioofi">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=janioofi&theme=blue_navy"/>
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janioofi&layout=donut&theme=blue_navy"/>
 </div>
   
