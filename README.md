@@ -3,13 +3,9 @@
 </div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/janioofi">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janioofi&layout=donut&theme=blue_navy"/>
-</div>
   
 <div align="center" style="display: inline_block"><br>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janioofi&layout=donut"/>
   <img align="center" alt="janio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="janio-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="janio-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
