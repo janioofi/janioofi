@@ -3,9 +3,12 @@
 </div>
 
 ##
-  
+<div align="center" style="display: inline_block">
+    <img width="250em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=janioofi&theme=midnight-purple"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=janioofi&theme=midnight-purple"/>
+</div>
+   
 <div align="center" style="display: inline_block"><br>
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janioofi&layout=donut"/>
   <img align="center" alt="janio-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="janio-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="janio-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
