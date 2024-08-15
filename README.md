@@ -20,11 +20,11 @@
 </div>
  <div align="center" style="display: inline_block"><br> 
     <a href="https://instagram.com/janioofi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" target="_blank"></a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:janioofi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/janioofi/"  target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>
 <img src="https://visitcount.itsvg.in/api?id=janioofi&label=Profile%20Views&color=0&icon=8&pretty=true" />
