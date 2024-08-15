@@ -27,3 +27,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a> 
  </div>
 </div>
+<img src="https://visitcount.itsvg.in/api?id=janioofi&label=Profile%20Views&color=0&icon=8&pretty=true" />
