@@ -22,12 +22,9 @@
   <img align="center" alt="janio-angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>
  <div align="center" style="display: inline_block"><br> 
-    <a href="https://instagram.com/janioofi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:janioofi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/janioofi/"  target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>
-<img src="https://visitcount.itsvg.in/api?id=janioofi&label=Profile%20Views&color=0&icon=8&pretty=true" />
